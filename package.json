@@ -1,0 +1,15 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Handy utilities for web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Joel Wilson",
+  "license": "ISC",
+  "type": "module"
+}
