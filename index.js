@@ -7,6 +7,7 @@ import hasLocalStorage from "./src/hasLocalStorage.js"
 import returnCookieOrUTMObject from "./src/returnCookieOrUTMObject.js"
 import setCookie from "./src/setCookie.js"
 import setInLocalStorage from "./src/setInLocalStorage.js"
+import fireGoogleAnalyticsEvent from "./src/fireGoogleAnalyticsEvent.js"
 
 
 const helpers = {
@@ -18,7 +19,8 @@ const helpers = {
     hasLocalStorage,
     returnCookieOrUTMObject,
     setCookie,
-    setInLocalStorage
+    setInLocalStorage,
+    fireGoogleAnalyticsEvent
 }
 
 export default helpers

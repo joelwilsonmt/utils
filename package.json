@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "chlotils",
   "version": "1.0.0",
   "description": "Handy utilities for web development",
   "main": "index.js",
