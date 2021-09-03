@@ -1,0 +1,2 @@
+export const insertAfter = (referenceNode, newNode) => referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+export const insertBefore = (referenceNode, newNode) => referenceNode.parentNode.insertBefore(newNode, referenceNode);

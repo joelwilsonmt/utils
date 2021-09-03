@@ -8,6 +8,7 @@ import returnCookieOrUTMObject from "./src/returnCookieOrUTMObject.js"
 import setCookie from "./src/setCookie.js"
 import setInLocalStorage from "./src/setInLocalStorage.js"
 import fireGoogleAnalyticsEvent from "./src/fireGoogleAnalyticsEvent.js"
+import insertNode from "./src/insertNode.js"
 
 
 const helpers = {
@@ -20,7 +21,8 @@ const helpers = {
     returnCookieOrUTMObject,
     setCookie,
     setInLocalStorage,
-    fireGoogleAnalyticsEvent
+    fireGoogleAnalyticsEvent,
+    insertNode
 }
 
 export default helpers
