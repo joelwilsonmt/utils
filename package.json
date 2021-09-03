@@ -1,6 +1,7 @@
 {
   "name": "chlotils",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "homepage": "https://github.com/joelwilsonmt/utils",
   "description": "Handy utilities for web development",
   "main": "index.js",
   "scripts": {
